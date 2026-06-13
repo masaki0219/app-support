@@ -14,8 +14,8 @@ Published URLs after setup:
 - E資格 問題集 support URL: `https://masaki0219.github.io/app-support/e-jdla/`
 - E資格 問題集 privacy policy URL: `https://masaki0219.github.io/app-support/e-jdla/privacy.html`
 - E資格 問題集 terms URL: `https://masaki0219.github.io/app-support/e-jdla/terms.html`
-- G検定 問題集 marketing URL: `https://masaki0219.github.io/app-support/g-jdla/`
-- G検定 問題集 support URL: `https://masaki0219.github.io/app-support/g-jdla/support.html`
+- G検定 問題集 marketing URL: `https://masaki0219.github.io/`
+- G検定 問題集 support URL: `https://masaki0219.github.io/app-support/g-jdla/`
 - G検定 問題集 privacy policy URL: `https://masaki0219.github.io/app-support/g-jdla/privacy.html`
 - G検定 問題集 terms URL: `https://masaki0219.github.io/app-support/g-jdla/terms.html`
 
