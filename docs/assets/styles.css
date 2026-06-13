@@ -41,6 +41,24 @@ a {
   border-bottom: 1px solid var(--line);
 }
 
+.hero-marketing {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 160px;
+  gap: 32px;
+  align-items: center;
+}
+
+.hero-copy {
+  min-width: 0;
+}
+
+.app-icon {
+  display: block;
+  width: 160px;
+  height: 160px;
+  border-radius: 24px;
+}
+
 .eyebrow {
   margin: 0 0 8px;
   color: var(--accent);
@@ -112,6 +130,45 @@ li,
   background: var(--accent-dark);
 }
 
+.button.secondary {
+  background: transparent;
+  border: 1px solid var(--line);
+  color: var(--accent);
+}
+
+.button.secondary:hover {
+  background: #ffffff;
+}
+
+.button-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin: 24px 0 0;
+}
+
+.feature-list {
+  display: grid;
+  gap: 14px;
+  padding-left: 0;
+  list-style: none;
+}
+
+.feature-list li {
+  display: grid;
+  gap: 4px;
+  padding: 16px 0;
+  border-top: 1px solid var(--line);
+}
+
+.feature-list strong {
+  color: var(--text);
+}
+
+.feature-list span {
+  color: var(--muted);
+}
+
 .link-list,
 .app-list {
   display: grid;
@@ -145,5 +202,15 @@ li,
 
   .hero {
     padding-top: 28px;
+  }
+
+  .hero-marketing {
+    grid-template-columns: 1fr;
+  }
+
+  .app-icon {
+    width: 112px;
+    height: 112px;
+    border-radius: 18px;
   }
 }
