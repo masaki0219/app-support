@@ -18,6 +18,10 @@ Published URLs after setup:
 - G検定 問題集 support URL: `https://masaki0219.github.io/app-support/g-jdla/`
 - G検定 問題集 privacy policy URL: `https://masaki0219.github.io/app-support/g-jdla/privacy.html`
 - G検定 問題集 terms URL: `https://masaki0219.github.io/app-support/g-jdla/terms.html`
+- 共通テスト倫理 問題集 marketing URL: `https://masaki0219.github.io/`
+- 共通テスト倫理 問題集 support URL: `https://masaki0219.github.io/app-support/ethics/`
+- 共通テスト倫理 問題集 privacy policy URL: `https://masaki0219.github.io/app-support/ethics/privacy.html`
+- 共通テスト倫理 問題集 terms URL: `https://masaki0219.github.io/app-support/ethics/terms.html`
 
 Do not move existing TaskQuest pages here if they are already used by an approved App Store build.
 Keep TaskQuest support URLs unchanged to avoid unnecessary metadata changes.
