@@ -22,6 +22,10 @@ Published URLs after setup:
 - 共通テスト倫理 問題集 support URL: `https://masaki0219.github.io/app-support/ethics/`
 - 共通テスト倫理 問題集 privacy policy URL: `https://masaki0219.github.io/app-support/ethics/privacy.html`
 - 共通テスト倫理 問題集 terms URL: `https://masaki0219.github.io/app-support/ethics/terms.html`
+- 国織り marketing URL: `https://masaki0219.github.io/`
+- 国織り support URL: `https://masaki0219.github.io/app-support/kunitori/`
+- 国織り privacy policy URL: `https://masaki0219.github.io/app-support/kunitori/privacy.html`
+- 国織り terms URL: `https://masaki0219.github.io/app-support/kunitori/terms.html`
 
 Do not move existing TaskQuest pages here if they are already used by an approved App Store build.
 Keep TaskQuest support URLs unchanged to avoid unnecessary metadata changes.
