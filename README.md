@@ -26,6 +26,10 @@ Published URLs after setup:
 - 国織り support URL: `https://masaki0219.github.io/app-support/kunitori/`
 - 国織り privacy policy URL: `https://masaki0219.github.io/app-support/kunitori/privacy.html`
 - 国織り terms URL: `https://masaki0219.github.io/app-support/kunitori/terms.html`
+- Excel VBA Standard 問題集 marketing URL: `https://masaki0219.github.io/`
+- Excel VBA Standard 問題集 support URL: `https://masaki0219.github.io/app-support/excel-vba-standard/`
+- Excel VBA Standard 問題集 privacy policy URL: `https://masaki0219.github.io/app-support/excel-vba-standard/privacy.html`
+- Excel VBA Standard 問題集 terms URL: `https://masaki0219.github.io/app-support/excel-vba-standard/terms.html`
 
 Do not move existing TaskQuest pages here if they are already used by an approved App Store build.
 Keep TaskQuest support URLs unchanged to avoid unnecessary metadata changes.
