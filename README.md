@@ -22,6 +22,10 @@ Published URLs after setup:
 - 金融生成AIベーシック 問題集 support URL: `https://masaki0219.github.io/app-support/finance-genai-basic/`
 - 金融生成AIベーシック 問題集 privacy policy URL: `https://masaki0219.github.io/app-support/finance-genai-basic/privacy.html`
 - 金融生成AIベーシック 問題集 terms URL: `https://masaki0219.github.io/app-support/finance-genai-basic/terms.html`
+- 金融業務3級 事業性融資推進コース問題集 marketing URL: `https://masaki0219.github.io/`
+- 金融業務3級 事業性融資推進コース問題集 support URL: `https://masaki0219.github.io/app-support/business-lending-grade3/`
+- 金融業務3級 事業性融資推進コース問題集 privacy policy URL: `https://masaki0219.github.io/app-support/business-lending-grade3/privacy.html`
+- 金融業務3級 事業性融資推進コース問題集 terms URL: `https://masaki0219.github.io/app-support/business-lending-grade3/terms.html`
 - ZELIO marketing URL: `https://masaki0219.github.io/`
 - ZELIO support URL: `https://masaki0219.github.io/app-support/zelio/`
 - ZELIO privacy policy URL: `https://masaki0219.github.io/app-support/zelio/privacy.html`
