@@ -30,6 +30,10 @@ Published URLs after setup:
 - 金融業務3級 事業性融資推進コース問題集 support URL: `https://masaki0219.github.io/app-support/business-lending-grade3/`
 - 金融業務3級 事業性融資推進コース問題集 privacy policy URL: `https://masaki0219.github.io/app-support/business-lending-grade3/privacy.html`
 - 金融業務3級 事業性融資推進コース問題集 terms URL: `https://masaki0219.github.io/app-support/business-lending-grade3/terms.html`
+- 炭素会計アドバイザー3級 問題集 marketing URL: `https://masaki0219.github.io/`
+- 炭素会計アドバイザー3級 問題集 support URL: `https://masaki0219.github.io/app-support/carbon-accounting-grade-3/`
+- 炭素会計アドバイザー3級 問題集 privacy policy URL: `https://masaki0219.github.io/app-support/carbon-accounting-grade-3/privacy.html`
+- 炭素会計アドバイザー3級 問題集 terms URL: `https://masaki0219.github.io/app-support/carbon-accounting-grade-3/terms.html`
 - ZELIO marketing URL: `https://masaki0219.github.io/`
 - ZELIO support URL: `https://masaki0219.github.io/app-support/zelio/`
 - ZELIO privacy policy URL: `https://masaki0219.github.io/app-support/zelio/privacy.html`
