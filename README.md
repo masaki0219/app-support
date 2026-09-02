@@ -18,6 +18,10 @@ Published URLs after setup:
 - G検定 問題集 support URL: `https://masaki0219.github.io/app-support/g-jdla/`
 - G検定 問題集 privacy policy URL: `https://masaki0219.github.io/app-support/g-jdla/privacy.html`
 - G検定 問題集 terms URL: `https://masaki0219.github.io/app-support/g-jdla/terms.html`
+- データマネジメント試験 問題集 marketing URL: `https://masaki0219.github.io/`
+- データマネジメント試験 問題集 support URL: `https://masaki0219.github.io/app-support/data-management-exam/`
+- データマネジメント試験 問題集 privacy policy URL: `https://masaki0219.github.io/app-support/data-management-exam/privacy.html`
+- データマネジメント試験 問題集 terms URL: `https://masaki0219.github.io/app-support/data-management-exam/terms.html`
 - 生成AIアドバイザー 1級・2級 問題集 marketing URL: `https://masaki0219.github.io/`
 - 生成AIアドバイザー 1級・2級 問題集 support URL: `https://masaki0219.github.io/app-support/generative-ai-advisor/`
 - 生成AIアドバイザー 1級・2級 問題集 privacy policy URL: `https://masaki0219.github.io/app-support/generative-ai-advisor/privacy.html`
