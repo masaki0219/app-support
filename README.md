@@ -22,6 +22,10 @@ Published URLs after setup:
 - データマネジメント試験 問題集 support URL: `https://masaki0219.github.io/app-support/data-management-exam/`
 - データマネジメント試験 問題集 privacy policy URL: `https://masaki0219.github.io/app-support/data-management-exam/privacy.html`
 - データマネジメント試験 問題集 terms URL: `https://masaki0219.github.io/app-support/data-management-exam/terms.html`
+- プロフェッショナルデジタルスキル 問題集 marketing URL: `https://masaki0219.github.io/`
+- プロフェッショナルデジタルスキル 問題集 support URL: `https://masaki0219.github.io/app-support/pds/`
+- プロフェッショナルデジタルスキル 問題集 privacy policy URL: `https://masaki0219.github.io/app-support/pds/privacy.html`
+- プロフェッショナルデジタルスキル 問題集 terms URL: `https://masaki0219.github.io/app-support/pds/terms.html`
 - 生成AIアドバイザー 1級・2級 問題集 marketing URL: `https://masaki0219.github.io/`
 - 生成AIアドバイザー 1級・2級 問題集 support URL: `https://masaki0219.github.io/app-support/generative-ai-advisor/`
 - 生成AIアドバイザー 1級・2級 問題集 privacy policy URL: `https://masaki0219.github.io/app-support/generative-ai-advisor/privacy.html`
