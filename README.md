@@ -42,6 +42,10 @@ Published URLs after setup:
 - 炭素会計アドバイザー3級 問題集 support URL: `https://masaki0219.github.io/app-support/carbon-accounting-grade-3/`
 - 炭素会計アドバイザー3級 問題集 privacy policy URL: `https://masaki0219.github.io/app-support/carbon-accounting-grade-3/privacy.html`
 - 炭素会計アドバイザー3級 問題集 terms URL: `https://masaki0219.github.io/app-support/carbon-accounting-grade-3/terms.html`
+- CAD利用技術者試験 2級問題集 marketing URL: `https://masaki0219.github.io/`
+- CAD利用技術者試験 2級問題集 support URL: `https://masaki0219.github.io/app-support/cad/`
+- CAD利用技術者試験 2級問題集 privacy policy URL: `https://masaki0219.github.io/app-support/cad/privacy.html`
+- CAD利用技術者試験 2級問題集 terms URL: `https://masaki0219.github.io/app-support/cad/terms.html`
 - ZELIO marketing URL: `https://masaki0219.github.io/`
 - ZELIO support URL: `https://masaki0219.github.io/app-support/zelio/`
 - ZELIO privacy policy URL: `https://masaki0219.github.io/app-support/zelio/privacy.html`
